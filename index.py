@@ -1,6 +1,6 @@
 import yaml
 
-INDEX_FILE = 'heidegger-index.yml'
+INDEX_FILE = 'stein-index.yml'
 
 yaml.warnings({'YAMLLoadWarning': False})
 

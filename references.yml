@@ -1,84 +1,12 @@
-EWI:
+PE:
   author:
-  - family: Heidegger
-    given: Martin
-  collection-editor:
-  - family: Klostermann
-    given: Vittorio
-  container-title: "Bremer und Freiburger Vortr\xE4ge"
-  collection-number: band 79
-  collection-title: Gesamtausgabe
-  editor:
-  - family: Jaeger
-    given: Petra
-  id: EWI
+  - family: Stein
+    given: Edith
+  id: PE
   issued:
     date-parts:
-    - - '2005'
-  publisher: Vittorio Klostermann
-  publisher-place: Frankfurt am Main
-  title: "Einblick in das was ist, Bremer Vortr\xE4ge 1949"
-  type: chapter
-SZ:
-  author:
-  - family: Heidegger
-    given: Martin
-  collection-editor:
-  - family: Klostermann
-    given: Vittorio
-  collection-number: band 2
-  collection-title: Gesamtausgabe
-  editor:
-  - family: Hermann
-    given: Friedrich-Wilhelm
-    non-dropping-particle: von
-  id: SZ
-  issued:
-    date-parts:
-    - - '1977'
-  publisher: Vittorio Klostermann
-  publisher-place: Frankfurt am Main
-  title: Sein und Zeit
-  type: book
-"GA 29/30":
-  author:
-  - family: Heidegger
-    given: Martin
-  collection-editor:
-  - family: Klostermann
-    given: Vittorio
-  collection-number: 'band 29/30'
-  collection-title: Gesamtausgabe
-  editor:
-  - family: Hermann
-    given: Friedrich-Wilhelm
-    non-dropping-particle: von
-  id: 'GA 29/30'
-  issued:
-    date-parts:
-    - - '1983'
-  publisher: Vittorio Klostermann
-  publisher-place: Frankfurt am Main
-  title: "Die Grundbegriffe der Metaphysik : Welt, Endlichkeit, Einsamkeit"
-  type: book
-VA:
-  author:
-  - family: Heidegger
-    given: Martin
-  collection-editor:
-  - family: Klostermann
-    given: Vittorio
-  collection-number: band 7
-  collection-title: Gesamtausgabe
-  editor:
-  - family: Hermann
-    given: Friedrich-Wilhelm
-    non-dropping-particle: von
-  id: VA
-  issued:
-    date-parts:
-    - - '2000'
-  publisher: Vittorio Klostermann
-  publisher-place: Frankfurt am Main
-  title: "Vortr\xE4ge und Aufs\xE4tze"
-  type: book
+    - - '1917'
+  publisher: Buchdruckerei des Waisenhauses
+  publisher-place: Halle
+  title: "Zum Problem der Einf\xFChlung"
+  type: dissertation
