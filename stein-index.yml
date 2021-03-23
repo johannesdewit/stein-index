@@ -1,17 +1,108 @@
+Annahmen:
+  PE:
+  - pageref: 14
+Bewegung:
+  PE:
+  - pageref: 16-17
+"Einsf\xFChlen":
+  PE:
+  - pageref: 16-17
+  - pageref: 16-18
+Erinnerung:
+  PE:
+  - pageref: 6-8
+Erwartung:
+  PE:
+  - pageref: '8'
+Geiger, Mortiz:
+  PE:
+  - pageref: '19'
+  reftype: p
 Gott:
   PE:
   - pageref: '11'
-"Groethuysen, Bernard":
+Groethuysen, Bernard:
   PE:
-  - pageref: '13n
-"Husserl, Edmund":
+  - pageref: 13n
+  reftype: p
+Husserl, Edmund:
   PE:
   - pageref: vi
   - pageref: 2n
-"Lipps, Theodor":
+  reftype: p
+Iterierbarkeit von Akten:
+  PE:
+  - pageref: '19'
+Leib:
+  PE:
+  - pageref: '16'
+Lipps, Theodor:
   PE:
   - pageref: '3'
-  - pageref: '11'
+  - pageref: 11-12
+  - pageref: 15-18
+  reftype: p
+Meinong, Alexius:
+  PE:
+  - pageref: '14'
+  reftype: p
+"Mitf\xFChlen":
+  PE:
+  - pageref: '14'
+"Negative Einf\xFChlung":
+  PE:
+  - pageref: 15-16
+"Nichtoriginarit\xE4t":
+  PE:
+  - pageref: '5'
+"Originarit\xE4t":
+  PE:
+  - pageref: '5'
+Phantasie:
+  PE:
+  - pageref: 8-9
+Scheler, Max:
+  PE:
+  - pageref: 14n
+  - pageref: 18n
+  reftype: p
+Smith, Adam:
+  PE:
+  - pageref: '14'
+  reftype: p
 Symbolgegebentheit:
   PE:
   - pageref: '11'
+"Vergegenw\xE4rtigung":
+  PE:
+  - pageref: 6-11
+Wir:
+  PE:
+  - pageref: '18'
+Witasek, Stephan:
+  PE:
+  - pageref: 19-20
+  reftype: p
+cogito:
+  PE:
+  - pageref: 15-16
+fremde Ich:
+  PE:
+  - pageref: '16'
+  - pageref: '12'
+  - pageref: '13'
+    reftype: r
+  - pageref: '14'
+  - pageref: '10'
+    reftype: r
+  - pageref: '17'
+    reftype: r
+"fremde Originarit\xE4t":
+  PE:
+  - pageref: '17'
+reflexive Sympathie:
+  PE:
+  - pageref: '19'
+vollen Erleben:
+  PE:
+  - pageref: '12'
